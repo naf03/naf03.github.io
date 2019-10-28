@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Use Taints and Tolerations in Kubernetes to repel pods from a worker node"
-date:   2019-03-28 22:36:09 +1100
-categories: Kubernetes
 ---
 
 Recently, the Kubernetes cluster that I manage at work seems to be performing poorly. My colleagues are complaining that doing a search 
